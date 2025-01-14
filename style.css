@@ -1,0 +1,37 @@
+p {
+    font-size: 50px;
+    color: red;
+    font-weight: lighter;
+    text-align: center;
+    font-family: Quicksand;
+
+}
+i{
+    color: brown;
+    background-color:grey;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 100px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+.jagaban{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+#tinubu{
+    width:200px;
+    height:200px;
+    border-radius: 20px;
+}
+nav{
+    display: inline;
+    font-family: roboto;
+}
+body{
+    background-color: cornflowerblue;
+}
